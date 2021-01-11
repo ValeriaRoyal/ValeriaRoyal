@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://media-exp1.licdn.com/dms/image/C4E16AQGX8m5RZZ8w9A/profile-displaybackgroundimage-shrink_200_800/0/1605205821679?e=1616025600&v=beta&t=XXmYYLoGy_aD5YzCgY7QoG4UGSfgHB6xrbUx5R8reLc
 
 <!--
 **ValeriaRoyal/ValeriaRoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
