@@ -1,8 +1,8 @@
 
 ![Screenshot](1605205821679.jpg)
 
-## GitHub Status
- ![valeriaroyal github stats](https://github-readme-stats.vercel.app/api?username=valeriaroyal&show_icons=true&theme=nightowl)
+<!--## GitHub Status
+ ![valeriaroyal github stats](https://github-readme-stats.vercel.app/api?username=valeriaroyal&show_icons=true&theme=nightowl)-->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriaroyal&layout=compact&theme=nightowl)](https://github.com/ValeriaRoyal/github-readme-stats)
 <!--
 **ValeriaRoyal/ValeriaRoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
