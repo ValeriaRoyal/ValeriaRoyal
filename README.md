@@ -1,22 +1,42 @@
 
-![Screenshot](1605205821679.jpg)
 
-<!--## GitHub Status
- ![valeriaroyal github stats](https://github-readme-stats.vercel.app/api?username=valeriaroyal&show_icons=true&theme=nightowl)-->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriaroyal&layout=compact&theme=nightowl)](https://github.com/ValeriaRoyal/github-readme-stats)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriaroyal)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+<div style="display: inline_block"><br>
 
-**ValeriaRoyal/ValeriaRoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Languages & Frameworks -->
+  <strong>Languages & Frameworks:</strong><br>
+  <img align="center" alt="HTML5" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://devicon-website.vercel.app/api/css3/original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://devicon-website.vercel.app/api/typescript/original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://devicon-website.vercel.app/api/angularjs/original.svg">
+  <img align="center" alt="VueJS" height="30" width="40" src="https://devicon-website.vercel.app/api/vuejs/original.svg">
+  <img align="center" alt="OutSystems" height="40" width="40" src="https://www.nuget.org/profiles/OutSystems/avatar?imageSize=512">
+  <img align="center" alt="Ionic" height="30" width="40" src="https://devicon-website.vercel.app/api/ionic/original.svg">
+  <img align="center" alt="Jasmine" height="30" width="40" src="https://devicon-website.vercel.app/api/jasmine/plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://devicon-website.vercel.app/api/postgresql/original.svg">
+</div>
+  <br>
+<div style="display: inline_block">
+  <!-- Tools -->
+  <strong>Tools:</strong><br>
+  <img align="center" alt="VSCode" height="30" width="40" src="https://devicon-website.vercel.app/api/vscode/original.svg">
+  <img align="center" alt="GitLab" height="30" width="40" src="https://devicon-website.vercel.app/api/gitlab/original.svg">
+  <img align="center" alt="Jira" height="30" width="40" src="https://devicon-website.vercel.app/api/jira/original.svg">
+  <img align="center" alt="Confluence" height="30" width="40" src="https://devicon-website.vercel.app/api/confluence/original.svg">
+  <img align="center" alt="Trello" height="30" width="40" src="https://devicon-website.vercel.app/api/trello/plain.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://devicon-website.vercel.app/api/figma/original.svg">
+  <img align="center" alt="Illustrator" height="30" width="40" src="https://devicon-website.vercel.app/api/illustrator/plain.svg">
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://devicon-website.vercel.app/api/photoshop/plain.svg">
+  <img align="center" alt="Adobe XD" height="30" width="40" src="https://devicon-website.vercel.app/api/xd/plain.svg">
 
-Here are some ideas to get you started:
+</div><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/valeriaroyal/" target="_blank" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:valeriaroyal.contato@gmail.com" target="_blank" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
