@@ -1,4 +1,10 @@
+# Valéria Regina A. N
 
+## 👋 Olá, devs! Bem-vindos ao meu perfil no GitHub!
+
+## About
+
+I am a professional with an analytical and creative profile, standing out for clear communication, collaboration, and commitment to continuous learning I value the combination of diverse perspectives to create innovative solutions and share knowledge. My experience in high-criticality projects highlights my ability to work collaboratively to achieve success.
 
 <div style="display: inline_block"><br>
 
